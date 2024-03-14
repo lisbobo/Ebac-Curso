@@ -9,3 +9,23 @@ Inicio
 8 - Após colocar uma roupa, vou para a porta da frente;
 9 - Após chegar na porta da frente, abro ela;
 10 - Após abrir a porta, vou para o trabalho;
+Fim
+
+Portugol
+Inicio
+1 - Levantar da cama;
+2 - Caminhar até o banheiro;
+3 - Abrir a porta;
+4 - Minha escova de dente está na pia? Sim
+  1 - Coloco creme dental;
+  2 - Escovo os dentes;
+  3 - Lavo o rosto;
+  4 - Saio do Banheiro;
+5 - Não
+  1 - Procuro minha escova;
+  2 - Após achar a escova;
+  3 - Coloco creme dental;
+  4 - Escovo os dentes;
+  5 - Lavo o rosto;
+  6 - Saio do banheiro;
+
