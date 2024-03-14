@@ -10,6 +10,8 @@ public class PrimeiraClasse {
         String end = cliente.retornarNomeCliente();
         System.out.println(end);
         System.out.println(cliente.getValorTotal());
+        // Fui elaborando junto ao professor e tirando dúvidas e aplicando elas, só
+        // consigo aprender fazendo. O comentário está aqui.
 
     }
 }
