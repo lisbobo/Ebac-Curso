@@ -1,0 +1,11 @@
+Inicio 
+1 - Ao acordar, levanto da cama;
+2 - Após levantar da cama, desligo o arcondicionado;
+3 - Após desligar o arcondicionado, vou ao banheiro;
+4 - Após chegar ao banheiro, vou a pia e escovo os dentes;
+5 - Após escovar os dentes, vou tomar banho;
+6 - Após tomar banho, vou ao meu guarda roupa;
+7 - Após chegar ao guarda roupa, coloco uma roupa;
+8 - Após colocar uma roupa, vou para a porta da frente;
+9 - Após chegar na porta da frente, abro ela;
+10 - Após abrir a porta, vou para o trabalho;
